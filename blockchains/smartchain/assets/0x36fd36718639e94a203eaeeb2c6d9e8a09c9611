@@ -1,0 +1,14 @@
+info.json
+{
+  "name": "NVIDIA GPU",
+  "symbol": "NPGU",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x36fd36718639e94a203eaeeb2c6d9e8a09c9611",
+  "description": "NVIDIA GPU Token (NPGU) é um token BEP20 criado para representar poder computacional descentralizado.",
+  "website": "https://seusite.com", 
+  "explorer": "https://bscscan.com/token/0x36fd36718639e94a203eaeeb2c6d9e8a09c9611",
+  "telegram": "https://t.me/seutelegram",
+  "twitter": "https://twitter.com/seutwitter"
+}
