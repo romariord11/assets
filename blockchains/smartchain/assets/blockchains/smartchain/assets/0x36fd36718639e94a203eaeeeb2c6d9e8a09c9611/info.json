@@ -1,0 +1,13 @@
+{
+  "name": "NVIDIA GPU",
+  "symbol": "NGPU",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x36fd36718639e94a203eaeeeb2c6d9e8a09c9611",
+  "description": "NVIDIA GPU Token (NGPU) é um token BEP20 criado para representar poder computacional descentralizado.",
+  "website": "https://seudominio.com",
+  "explorer": "https://bscscan.com/token/0x36fd36718639e94a203eaeeeb2c6d9e8a09c9611",
+  "telegram": "https://t.me/seutelegram",
+  "twitter": "https://twitter.com/seutwitter"
+}
